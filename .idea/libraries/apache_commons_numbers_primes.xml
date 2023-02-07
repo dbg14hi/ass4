@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache.commons.numbers.primes" type="repository">
+    <properties maven-id="org.apache.commons:commons-numbers-primes:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-numbers-primes/1.1/commons-numbers-primes-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
